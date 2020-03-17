@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to sandipanbhaumik slide!"
 ---
-Use the right arrow to go ahead!
+This is my awesome slide.
 Use the left arrow to go back!
